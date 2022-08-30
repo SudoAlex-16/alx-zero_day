@@ -1,1 +1,1 @@
-My first readme
+I stated the ALX software engineering program on the 15th of August 2022. So far the journey has been great. I have learnt a lot from the projects given so far. Some of the projects done include: Shell navigation, Git, Vagrant, Vi editor, emacs and map your mind.
